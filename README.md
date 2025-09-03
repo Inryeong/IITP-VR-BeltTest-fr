@@ -1,5 +1,8 @@
 # IITP_VR_France
 
+## Demo video
+[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/59USvjy2toI)
+
 ## Overview
 
 1.The experiment consists of four sessions: training session and level 1,2,3.
