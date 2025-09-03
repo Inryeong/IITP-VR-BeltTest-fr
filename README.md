@@ -2,7 +2,7 @@
 
 ## Demo video
 
-[![Video Label](http://img.youtube.com/vi/'mVCdLDOuYbs'/0.jpg)](https://youtu.be/'mVCdLDOuYbs')
+[![Watch on YouTube](https://img.youtube.com/vi/mVCdLDOuYbs/0.jpg)](https://youtu.be/mVCdLDOuYbs)
 
 ## Overview
 
